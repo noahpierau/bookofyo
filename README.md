@@ -95,20 +95,26 @@ Version 0.2
 The Book of Yo is, fundamentally, a work in progress.
 It aims to articulate the Yoan community's collective understanding about the world, as a common foundation for our actions.
 Nevertheless, the Book of Yo is always and forever under revision, as successive versions are produced through the Open Source Truth Process.
+
 Everyone in the Yoan community is invited to participate in this process, to provide input and to suggest improvements, based on one's own direct experience of the world.
 Through this process, our central text will never become dogmatic or static, but will instead always be a fluid, living document, able to respond to new experiences and insights into the nature of reality.
 
 ## Introduction
 It is time to stop looking for the teacher, the guru, and to openly and honestly recognize that we are all teachers, we are all god, we all contain valuable life experience and profound lessons on the nature of Truth or Reality. Together we must assume collective leadership of our community. We must empower and nurture and support the struggle in each and every one of us to escape bondage.
+
 This is the fundamental faith of Yoism: truth resides in our experience of reality. Personal verification is the foundation of all belief.
 We start by listening to ourselves, trusting our experiences. Our feelings guide the way. Our true purpose is defined by our very existence. Our meaning comes from within.
 Some of us are bound by slavery, economic oppression, and laws designed to rob us of our humanity. We must never forget those who struggle in the worst conditions of adversity.
 All of us, however, are stuck by the sheer weight of living in a system that is bent on its own destruction.
+
 We want to love, we want to be freed to pursue our dreams. This is most obvious in the ways we try to protect the innocence of children, the way we want them to believe they can become anything they dream of -- but at the same time we have forgotten to protect this in ourselves.
-The idea is not to keep dreaming, but to wake up! We must awaken inside our dreams and realize NOW is the moment to act.
+
+> *The idea is not to keep dreaming, but to wake up! We must awaken inside our dreams and realize NOW is the moment to act.*
+
 We are the one’s responsible for our futures, and it is only when we have the strength to risk our own greatness that hope is born into the world.
 All of us need help in our own liberation.
 Some of us have always dreamed of being artists or entrepeneurs , but feel trapped by the burden of college debt in jobs that rob our souls -- as investment bankers, lawyers, and careful professionals of all types. Some of us have dreamed of starting our own businesses, businesses with a social purpose, and we need to be given the resources and support to take the risks to make these businesses come alive. Some of us have skills that most can only dream of -- we are great musicians, but we are crushed by our own self-doubt, by our lack of support, and we learn to stop trying, to stop dreaming of our own greatness.
+
 Imagine a liberated world, a world in which children are shown how to discover themselves, not according to some stereotype or according to the profit needs of a capitalistic machine, but how to engage the soul quest, how to brave the struggles and suffer the pains of true adventure. Imagine a world that encourages real solutions to hard problems.
 We are responsible for each other. Together, we can improve our lives and our world-- if we can learn to love and care for each other, if we can learn to rest and rely on each other, if we can unlearn the myth of independence, which divides us and keeps us weak, for the reality of interdependence, which is the way of the universe.
 
