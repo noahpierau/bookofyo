@@ -1,98 +1,95 @@
-# bookofyo
+# The Book of Yo
+### Version 0.2
 
-The Book of Yo
-Version 0.2
+#### [Consensed on January 4, 2004]
 
-[Consensed on January 4, 2004]
+#### [Markdown added in December 2022]
 
+# Table of Contents
 
+- The Book of Yo 3
 
+- Introduction 4
 
-Table of Contents
+- Chapter 1: Welcome To Yoism 5
 
-The Book of Yo 3
+  - Who are We? 5
 
-Introduction 4
+  - The Main Beliefs of Yoism 5
 
-Chapter 1: Welcome To Yoism 5
+  - Ten Sacred Truths, Principles, and Goals of Yoism 6
 
-Who are We? 5
+  - The Open Source Truth Process 7
 
-The Main Beliefs of Yoism 5
+  - What Makes Yoism Unique? 7
 
-Ten Sacred Truths, Principles, and Goals of Yoism 6
+- Chapter 2: Empiricism -- Going Beyond (and Toward) the "One True Religion" 9
 
-The Open Source Truth Process 7
+  - Truth 9
 
-What Makes Yoism Unique? 7
+  - A Thought Experiment 10
 
-Chapter 2: Empiricism -- Going Beyond (and Toward) the "One True Religion" 9
+  - Models 12
 
-Truth 9
+  - Determining Our Beliefs 13
 
-A Thought Experiment 10
+  - Good Evidence 14
 
-Models 12
+  - The Importance of Occam's Razor 15
 
-Determining Our Beliefs 13
+  - The Afterlife 16
 
-Good Evidence 14
+  - Open-mindedness 18
 
-The Importance of Occam's Razor 15
+- Chapter 3: Community– The Open Source Truth Process 18
 
-The Afterlife 16
+  - Open Source Software 19
 
-Open-mindedness 18
+  - Open Source Truth 20
 
-Chapter 3: Community– The Open Source Truth Process 18
+  - Consensual Truth Making: Embracing Conflict 20
 
-Open Source Software 19
+  - Open Source Truth In Action: Revising The Book of Yo 21
 
-Open Source Truth 20
+  - Book Yoans 22
 
-Consensual Truth Making: Embracing Conflict 20
+  - Becoming a Book Yoan 22
 
-Open Source Truth In Action: Revising The Book of Yo 21
+  - Proclaiming the Truth Together: Overcoming the Fear of Religion 23
 
-Book Yoans 22
+- Chapter 4: Meaning 26
 
-Becoming a Book Yoan 22
+  - Who and what am I? 26
 
-Proclaiming the Truth Together: Overcoming the Fear of Religion 23
+  - What do you mean by "Meaning"? 27
 
-Chapter 4: Meaning 26
+  - The Exploration 28
 
-Who and what am I? 26
+  - Deep Importance 30
 
-What do you mean by "Meaning"? 27
+  - Gatherings 31
 
-The Exploration 28
+  - Community Agreements About What Is Important 32
 
-Deep Importance 30
+  - The Process For Coming To These Articulations 34
 
-Gatherings 31
+- Chapter 5: Reclaiming GOD 36
 
-Community Agreements About What Is Important 32
+  - A Story of Creation 36
 
-The Process For Coming To These Articulations 34
+  - Traditional Religion 37
 
-Chapter 5: Reclaiming GOD 36
+  - Enlightenment 38
 
-A Story of Creation 36
+  - The Nature of God 40
 
-Traditional Religion 37
+  - Reclaiming Your Godliness 43
 
-Enlightenment 38
+- Chapter 6: Why Me? Why Yoism? 46
 
-The Nature of God 40
+- A Declaration of Inter-Dependence 46
 
-Reclaiming Your Godliness 43
-
-Chapter 6: Why Me? Why Yoism? 46
-
-A Declaration of Inter-Dependence 46
-
-The Book of Yo
+# The Book of Yo
 
 The Book of Yo is, fundamentally, a work in progress.
 It aims to articulate the Yoan community's collective understanding about the world, as a common foundation for our actions.
