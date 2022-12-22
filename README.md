@@ -6,13 +6,11 @@ Version 0.2
 
 [Markdown added in December, 2022]
 
-# Table of Contents
+## Table of Contents
 
-- The Book of Yo
+- [Introduction](#introduction)
 
-- Introduction
-
-- Chapter 1: Welcome To Yoism
+- [Chapter 1: Welcome To Yoism](#chapter-1-welcome-to-yoism)
 
   - Who are We?
 
@@ -24,7 +22,7 @@ Version 0.2
 
   - What Makes Yoism Unique?
 
-- Chapter 2: Empiricism
+- [Chapter 2: Empiricism](#chapter-2-empiricism)
 
   - Truth
 
@@ -42,7 +40,7 @@ Version 0.2
 
   - Open-mindedness
 
-- Chapter 3: Community
+- [Chapter 3: Community](#chapter-3-community)
 
   - Open Source Software
 
@@ -58,7 +56,7 @@ Version 0.2
 
   - Proclaiming the Truth Together: Overcoming the Fear of Religion
 
-- Chapter 4: Meaning
+- [Chapter 4: Meaning](#chapter-4-meaning)
 
   - Who and what am I?
 
@@ -74,7 +72,7 @@ Version 0.2
 
   - The Process For Coming To These Articulations
 
-- Chapter 5: Reclaiming GOD
+- [Chapter 5: Reclaiming GOD](#chapter-5-reclaiming-god)
 
   - A Story of Creation
 
@@ -86,9 +84,11 @@ Version 0.2
 
   - Reclaiming Your Godliness
 
-- Chapter 6: Why Yoism?
+- [Chapter 6: Why Yoism?](#chapter-6-why-yoism)
 
   - A Declaration of Inter-Dependence
+
+- [Footnotes](#footnotes)
 
 # The Book of Yo
 
@@ -252,7 +252,7 @@ By denying the existence of death, by hanging on to the notion of some sort of c
 Open-mindedness
 One of the most important aspects of our exploration of reality is that we keep our minds open. There is always the possibility of acquiring new evidence which leads us to new and different understandings. By acting on the knowledge we currently have, we are not saying that we must assume our understandings are correct! There always exists the possibility of one day discovering that all our current truths are indeed wrong. One of the central tenets of Yoism is for there to be no dogma. Only by keeping our minds continually open to new possibilities can we live up to that goal.
 
-## Chapter 3: Community– The Open Source Truth Process
+## Chapter 3: Community
 And if I am to carry on the inquiry by myself, I will first of all remark that . . . all of us should have an ambition to know what is true and what is false . . . for the discovery of the truth is a common good. And now I will proceed to argue according to my own notion. But if any of you think that I arrive at conclusions which are untrue you must interpose and refute me, for I do not speak from any certain knowledge of what I am saying; I am an enquirer like yourselves, and therefore, if my opponent says anything which is of force, I shall be the first to agree with him.
 Socrates, in Plato's Dialogue, Gorgias
 The world is in crisis. Though we have had technological revolutions, we have not had the social and moral revolutions we need in order to use that technology safely and sanely. Our use of our technology is in fact so poor that many studies of happiness and fulfillment show that our technological advances don't help! Humanity needs a cultural revolution that matches the industrial revolution. For the first time, we have the opportunity to organize our community around a sane understanding of Reality -- truths that can be justified -- rather than around competing received dogmas.
