@@ -108,68 +108,93 @@ We start by listening to ourselves, trusting our experiences. Our feelings guide
 Some of us are bound by slavery, economic oppression, and laws designed to rob us of our humanity. We must never forget those who struggle in the worst conditions of adversity.
 All of us, however, are stuck by the sheer weight of living in a system that is bent on its own destruction.
 
-We want to love, we want to be freed to pursue our dreams. This is most obvious in the ways we try to protect the innocence of children, the way we want them to believe they can become anything they dream of -- but at the same time we have forgotten to protect this in ourselves.
+We want to love, we want to be freed to pursue our dreams. This is most obvious in the ways we try to protect the innocence of children, the way we want them to believe they can become anything they dream of, but at the same time we have forgotten to protect this in ourselves.
 
 > *The idea is not to keep dreaming, but to wake up! We must awaken inside our dreams and realize NOW is the moment to act.*
 
 We are the one’s responsible for our futures, and it is only when we have the strength to risk our own greatness that hope is born into the world.
 All of us need help in our own liberation.
-Some of us have always dreamed of being artists or entrepeneurs , but feel trapped by the burden of college debt in jobs that rob our souls -- as investment bankers, lawyers, and careful professionals of all types. Some of us have dreamed of starting our own businesses, businesses with a social purpose, and we need to be given the resources and support to take the risks to make these businesses come alive. Some of us have skills that most can only dream of -- we are great musicians, but we are crushed by our own self-doubt, by our lack of support, and we learn to stop trying, to stop dreaming of our own greatness.
+Some of us have always dreamed of being artists or entrepeneurs, but feel trapped by the burden of college debt in jobs that rob our souls. Some of us have dreamed of starting our own businesses, businesses with a social purpose, and we need to be given the resources and support to take the risks to make these businesses come alive. Some of us have skills that most can only dream of. We are great musicians, but we are crushed by our own self-doubt, by our lack of support, and we learn to stop trying, to stop dreaming of our own greatness.
 
 Imagine a liberated world, a world in which children are shown how to discover themselves, not according to some stereotype or according to the profit needs of a capitalistic machine, but how to engage the soul quest, how to brave the struggles and suffer the pains of true adventure. Imagine a world that encourages real solutions to hard problems.
-We are responsible for each other. Together, we can improve our lives and our world-- if we can learn to love and care for each other, if we can learn to rest and rely on each other, if we can unlearn the myth of independence, which divides us and keeps us weak, for the reality of interdependence, which is the way of the universe.
+
+We are responsible for each other. Together, we can improve our lives and our world. If we can learn to love and care for each other, if we can learn to rest and rely on each other, if we can unlearn the myth of independence and replace it with the reality of interdependence, which is the way of the universe, we can heal the world.
 
 ## Chapter 1: Welcome To Yoism
 
 ### Who are We?
 We are a community of individuals brought together by our shared understanding of our present situation, and a common vision for our future.
 We believe that our institutions—including our governments, our religious organizations, our schools, and our corporations—are failing to meet our most vital needs. Our existing cultural beliefs and values are leading us far astray.
-In this we know that we are not alone -- many people wrestle with the sense that something is terribly wrong. There are many groups around the globe engaged in the struggle to find solutions. As Yoans, we recognize that these scattered efforts must be brought together and organized if they are to be effective.
+In this we know that we are not alone. Many people wrestle with the sense that something is terribly wrong. There are many groups around the globe engaged in the struggle to find solutions. As Yoans, we recognize that these scattered efforts must be brought together and organized if they are to be effective.
+
 Together—as we join one another to form a more unified, larger community that acts on shared, healthy beliefs and values—we can create a better world. We are united in our goals: healthy communities, ecological living, and worldwide justice. In short, a sustainable humanity.
 Yoans recognize that to form a truly healthy community that is effective as a group, we must remain responsive to the experiences ofindividuals. This is an extremely difficult and challenging task, as organizing people into an effective group without asking them to replace their own beliefs and values with those of the group itself is a tricky business.
+
 Yoism, the world's first Open Source Religion, takes up this challenge.
 
 ### The Main Beliefs of Yoism
-The following beliefs are the foundations of Yoan thought and practice. When we take a careful look at human history, we see that those societies whose core beliefs don't include these ideas and values are unstable, ill, or suffering. To heal ourselves and our world we turn to these principles; the stronger our commitment to them, the stronger we are. A Yoan is someone who embraces these beliefs and ideals and lives by them.
-Empiricism - Personal verification, by the members of the community, is the only valid foundation for belief. When truth is dictated by dogmatic authority, we are endangered, and there are painful consequences.
-Community - Humans are profoundly social creatures who require a vital web of relatedness for psychological/emotional well being, just as the human body requires oxygen for physical well being. Because of this, Yoans work toward the creation of healthy communities that can be the foundation for emotional well being and spiritual fulfillment.
-God - God exists; but the God that exists is not what most people think of when they hear the word. The standard, local, divisive illusions structured around the word-concept "God" have proven to be dangerous and destructive. In contrast to religious communities built on truths received from special, long-dead, divine authorities, Yoism is based on a theology that is consistent with the world as it is experienced today by people everywhere.
-Democracy - Yoans agree with the underlying message in Winston Churchill's statement:
-Many forms of Government have been tried, and will be tried in this world . . . No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of Government, except all those others that have been tried from time to time. 
+The following beliefs are the foundations of Yoan thought and practice. When we take a careful look at human history, we see that those societies whose core beliefs don't include these ideas and values are unstable, ill, or suffering. To heal ourselves and our world we turn to these principles; the stronger our commitment to them, the stronger we are. 
+
+A Yoan is someone who embraces these beliefs and ideals and lives by them:
+
+- **Empiricism** - Personal verification, by the members of the community, is the only valid foundation for belief. When truth is dictated by dogmatic authority, we are endangered, and there are painful consequences.
+
+- **Community** - Humans are profoundly social creatures who require a vital web of relatedness for psychological/emotional well being, just as the human body requires oxygen for physical well being. Because of this, Yoans work toward the creation of healthy communities that can be the foundation for emotional well being and spiritual fulfillment.
+
+- **God** - God exists; but the God that exists is not what most people think of when they hear the word. The standard, local, divisive illusions structured around the word-concept "God" have proven to be dangerous and destructive. In contrast to religious communities built on truths received from special, long-dead, divine authorities, Yoism is based on a theology that is consistent with the world as it is experienced today by people everywhere.
+
+- **Democracy** - Yoans agree with the underlying message in Winston Churchill's statement:
+*Many forms of Government have been tried, and will be tried in this world . . . No one pretends that democracy is perfect or all-wise. Indeed, it has been said that democracy is the worst form of Government, except all those others that have been tried from time to time.* 
 Yoans believe that in the context of communities composed of people who are not blinded by dogmatic, authoritarian thinking, democracy can come closer to producing vital, healthy, sustainable societies. Until a more effective and just model for organizing human affairs is demonstrated, Yoans participate in the attempt to develop democracy's untapped potential.
-Environmentalism - As traveling companions, we are all keepers of Spaceship Earth. This hardly needs stating; only the truly insane, the infantile, imbecilic, and/or the pathologically self-destructive pollute and destroy their own home.
-Growth - Because humanity is now confronted by terribly difficult conditions, we must all work to continually introduce others to these values and beliefs by engaging their minds and by building welcoming communities that truly transform our relationships and inspire others to do the same.
+
+- **Environmentalism** - As traveling companions, we are all keepers of Spaceship Earth. This hardly needs stating; only the truly insane, the infantile, imbecilic, and/or the pathologically self-destructive pollute and destroy their own home.
+
+- **Growth** - Because humanity is now confronted by terribly difficult conditions, we must all work to continually introduce others to these values and beliefs by engaging their minds and by building welcoming communities that truly transform our relationships and inspire others to do the same.
 
 ### Ten Sacred Truths, Principles, and Goals of Yoism
-Following from our beliefs, we hold these truths to be self evident,
-That all humans are sacred beings that come into the world with equal unalienable Rights.
-That among these Rights are Life, Liberty, and the pursuit of Happiness.
-That to secure these Rights, Governments are instituted among people, deriving their just powers from the consent of the governed. That these rights may be constrained when, and only when, their constraint is necessary for the maintenance and operation of an effective government that can secure these Rights.
-That these Rights may not be constrained because of religious beliefs, gender, sexual orientation, race, discomfort with the ideas espoused or actions taken by others, or any other reason that may be put forth to justify constraint other than constraint that is absolutely necessary for the operation of an effective government that can secure these Rights.
-That adequate food, shelter, clothing, health care, and other essentials are necessary for basic rights to be realized; all who are willing (whether able or not) to engage in a fair share of productive work have a right to these essentials.
-That it is our sacred duty to protect the life sustaining biosphere and the diversity of living creatures.
-That all children must be given the chance to grow, thrive, be loved, and to explore their potential to the fullest. That all people -- whether children or adults -- who have not had sufficient opportunities must also be given the chance to thrive and grow, to the fullest extent that the community can provide.
-That, as profoundly social creatures, we can only achieve our potential when we have the option of participating in healthy, supportive, loving relationships and communities. That participating in the creation of such healthy communities is the sacred duty of all Yoans.
-It is our duty to help others come to understand these Sacred Truths and to enable Yoism to grow into an effective force for healing our world. It is our duty to continually recognize the danger of defining ingroups (Us) and outgroups (Them), for such definitions have been used to justify and encourage terribly evil actions against others.
-In pursuit of these goals, Yoans are not guided by dogmatically proclaimed, fixed truths. All Yoans turn to the court of their personal, direct experience of the world and then join together in our collective attempt to formulate the current (best we can do at the moment, unfixed, and open to further revision by the community) Open Source Truths (OST's) that guide us in our pursuit of these Sacred Goals.
+Following from our beliefs, we hold these truths to be self evident:
+
+1. That all humans are sacred beings that come into the world with equal unalienable Rights.
+
+2. That among these Rights are Life, Liberty, and the pursuit of Happiness.
+
+3. That to secure these Rights, Governments are instituted among people, deriving their just powers from the consent of the governed. That these rights may be constrained when, and only when, their constraint is necessary for the maintenance and operation of an effective government that can secure these Rights.
+
+4. That these Rights may not be constrained because of religious beliefs, gender, sexual orientation, race, discomfort with the ideas espoused or actions taken by others, or any other reason that may be put forth to justify constraint other than constraint that is absolutely necessary for the operation of an effective government that can secure these Rights.
+
+5. That adequate food, shelter, clothing, health care, and other essentials are necessary for basic rights to be realized; all who are willing (whether able or not) to engage in a fair share of productive work have a right to these essentials.
+
+6. That it is our sacred duty to protect the life sustaining biosphere and the diversity of living creatures.
+
+7. That all children must be given the chance to grow, thrive, be loved, and to explore their potential to the fullest. That all people—whether children or adults—who have not had sufficient opportunities must also be given the chance to thrive and grow, to the fullest extent that the community can provide.
+
+8. That, as profoundly social creatures, we can only achieve our potential when we have the option of participating in healthy, supportive, loving relationships and communities. That participating in the creation of such healthy communities is the sacred duty of all Yoans.
+
+9. That it is our duty to help others come to understand these Sacred Truths and to enable Yoism to grow into an effective force for healing our world. It is our duty to continually recognize the danger of defining ingroups (Us) and outgroups (Them), for such definitions have been used to justify and encourage terribly evil actions against others.
+
+10. That in pursuit of these goals, Yoans are not guided by dogmatically proclaimed, fixed truths. All Yoans turn to the court of their personal, direct experience of the world and then join together in our collective attempt to formulate the current (best we can do at the moment, unfixed, and open to further revision by the community) Open Source Truths (OST's) that guide us in our pursuit of these Sacred Goals.
+
 All Yoans hold these Ten Sacred Truths. Anyone who embraces these Ten Sacred Truths of Yoism is a welcome member of our community.
 
 ### The Open Source Truth Process
-Yoism's core doctrines and beliefs, including this Book, are created and refined through the Open Source Truth Process . This process is an emerging social technology currently being developed by Yoans working at The Center for Public Leadership at Harvard's Kennedy School of Government.
-The project aims to create a new way for a group to explore and articulate the nature of reality and a common vision for our world. Placing the development of the Truth Process---a new technology for deriving our collective "meaning," values, and beliefs---at the heart of a community of action is a necessary and unique safeguard against the dogmatic pitfalls that typically plague communities built on shared beliefs.
+Yoism's core doctrines and beliefs, including this Book, are created and refined through the Open Source Truth Process. 
+Placing the development of the Truth Process—a new technology for deriving our collective "meaning," values, and beliefs—at the heart of a community of action is a necessary and unique safeguard against the dogmatic pitfalls that typically plague communities built on shared beliefs.
+
 The Truth Process ensures that the Yoan Community is a Living Community whose core writings will evolve over time, through continuous reflection, growth, and evolution in our thinking. Everyone in the community is invited to provide input and improvements, based on each person's own direct experience of reality. Through this process participants will gradually uncover, refine, and document the Truth.
+
 By "Truth" we simply mean the clearest expression of a system of ideas and beliefs that is most consistent with reality as it is directly experienced. Ours is a truth that you can test and experience directly, with your own senses and mind. Our truth is not based on narrow human authority (dogma, received wisdom, and imposed truths). Rather, it is based on the broad authority of the collective human experience of being-in-the-world, i.e., the human experience of reality.
-For Yoans, some of the most profoundly meaningful experiences are found in our involvement in the human community, our engagement with one another, our struggle to find ways to act cooperatively without denying our conflicts, and our commitment to the emerging Yoan vision for ourselves, our families, our species, and our planet. Thus the Yoan Truth Process---a process thoroughly embedded in deep human engagement designed to produce our most accurate view of ourselves and our world---is a religious experience.
+
+For Yoans, some of the most profoundly meaningful experiences are found in our involvement in the human community, our engagement with one another, our struggle to find ways to act cooperatively without denying our conflicts, and our commitment to the emerging Yoan vision for ourselves, our families, our species, and our planet. Thus the Yoan Truth Process—a process thoroughly embedded in deep human engagement designed to produce our most accurate view of ourselves and our world—is a religious experience.
 
 ### What Makes Yoism Unique?
 Like all communities formed around common values and beliefs, the Yoan Community faces the danger of becoming dogmatic and exclusive, to the detriment of the very values we strive to embody.
 We believe the following central tenets are essential in helping us to avoid this pitfall:
-1. We reject claims of truth based solely on authority.
-2. We trust our senses, our direct experience of the world, as the ultimate arbiter of reality.
-3. We acknowledge fallibility and the eternal evolution of our understanding of reality. Our truth is a process.
-4. We enshrine human divinity in our system of values. This includes all human beings, even those who disagree with us.
-5. We never forget the danger inherent in any group that revolves around shared beliefs.
-6. We place the Open Source Truth Process at the center of our community, guiding our purpose and our actions in the world.
+- We reject claims of truth based solely on authority.
+- We trust our senses, our direct experience of the world, as the ultimate arbiter of reality.
+- We acknowledge fallibility and the eternal evolution of our understanding of reality. Our truth is a process.
+- We enshrine human divinity in our system of values. This includes all human beings, even those who disagree with us.
+- We never forget the danger inherent in any group that revolves around shared beliefs.
+- We place the Open Source Truth Process at the center of our community, guiding our purpose and our actions in the world.
 
 ## Chapter 2: Empiricism
 
@@ -179,9 +204,9 @@ The man responded with incredulous outrage. With intensified panic he yelled at 
 His guru bolted upright and with his dying breath he screeched in horror, “You mean it isn't a beanstalk?!”
 
 ### Truth
-At the root of the Yoan experiment is an agreement about how we are going to explore Reality. Almost every religion on Earth claims to have special access to "The One Truth," determined by the pronouncements of some authority and the interpretation of authority by other authorities. Yoism is different -- Yoism is the "non-dogmatic religion." But where does a Yoan's basis for belief come from, and how does the Yoan community as a whole determine its truths?
+At the root of the Yoan experiment is an agreement about how we are going to explore Reality. Almost every religion on Earth claims to have special access to "The One Truth," determined by the pronouncements of some authority and the interpretation of authority by other authorities. Yoism is different. Yoism is the "non-dogmatic religion." But where does a Yoan's basis for belief come from, and how does the Yoan community as a whole determine its truths?
 Finding one's path in this world is a constant investigation of both what we desire and of what is. The process of understanding "what is," of exploring the physical limits of reality, is a process of exploring God. To Yoans, God is Reality. God is the universe. As Gandhi said, “God is Truth.” God is the essence from which all existence springs forth.
-In the last few centuries, since the birth of the Enlightenment, humans have discovered truly revolutionary ways of exploring Reality/God, ways that rely on personal verification -- instead of dogma -- as the foundation for all belief. We now have the opportunity, perhaps for the first time in history, to apply these understandings not only to our own search for Truth, but to a collective search for Truth by a community dedicated to acting upon its discoveries.
+In the last few centuries, since the birth of the Enlightenment, humans have discovered truly revolutionary ways of exploring Reality/God, ways that rely on personal verification—instead of dogma—as the foundation for all belief. We now have the opportunity, perhaps for the first time in history, to apply these understandings not only to our own search for Truth, but to a collective search for Truth by a community dedicated to acting upon its discoveries.
 This chapter will demonstrate the framework of the Yoan exploration of Reality. How do we make sense of our experiences? What does “truth” mean? What does “belief” mean? How do we determine what we consider to be correct and incorrect given what we know?
 In other words: On what basis do we decide how we live our lives, how to pursue our values and express our meanings?
 It is worth noting here that sometimes we may not feel a need to understand how things work, or we may not care whether our understandings are accurate or not. There are many things we do which are so trivial they just aren't worth examining in great detail. Also, sometimes we are not looking for Truth, so much as we are simply trying to generate ideas, express ourselves, or just have fun. And sometimes knowing the truth doesn't actually help us do what is right. For example, for many people the fear of approaching someone yo is attracted to is overwhelming. But even after yo realizes that there is nothing really to be afraid of, that the fear is being exaggerated in yo's head -- after all, rejection lands yo back in, more or less, the same place as doing nothing -- the fear still exists, and knowing the truth of the matter does nothing to compel yo to act.
