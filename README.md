@@ -15,80 +15,55 @@ Version 0.21
 - [Chapter 1: Welcome To Yoism](#chapter-1-welcome-to-yoism)
 
   - Who are We?
-
   - The Main Beliefs of Yoism
-
   - Ten Sacred Truths, Principles, and Goals of Yoism
-
   - The Open Source Truth Process
-
   - What Makes Yoism Unique?
 
 - [Chapter 2: Empiricism](#chapter-2-empiricism)
 
   - Truth
-
   - A Thought Experiment
-
   - Models
-
   - Determining Our Beliefs
-
   - Good Evidence
-
   - The Importance of Occam's Razor
-
   - The Afterlife
-
   - Open-mindedness
 
 - [Chapter 3: Community](#chapter-3-community)
 
   - Open Source Software
-
   - Open Source Truth
-
   - Consensual Truth Making: Embracing Conflict
-
   - Open Source Truth In Action: Revising The Book of Yo
-
   - Book Yoans
-
   - Becoming a Book Yoan
-
   - Proclaiming the Truth Together: Overcoming the Fear of Religion
 
 - [Chapter 4: Meaning](#chapter-4-meaning)
 
   - Who and what am I?
-
   - What do you mean by "Meaning"?
-
   - The Exploration
-
   - Deep Importance
-
   - Gatherings
-
   - Community Agreements About What Is Important
-
   - The Process For Coming To These Articulations
 
 - [Chapter 5: Reclaiming GOD](#chapter-5-reclaiming-god)
 
   - A Story of Creation
-
   - Traditional Religion
-
   - Enlightenment
-
   - The Nature of God
-
   - Reclaiming Your Godliness
 
 - [Chapter 6: Why Yoism?](#chapter-6-why-yoism)
 
   - A Declaration of Inter-Dependence
+  - The Power of Yo
+  - Become Part of The Movement
 
 - [Footnotes](#footnotes)
 
@@ -497,7 +472,7 @@ Many have turned away from the traditional religions because such dogma is often
 As such, in Yoism there is no set formula for how one can investigate the questions about meanings and values. There are methods that have been practiced for centuries that people have found useful, and Yoism incorporates these methods to the extent that Yoans find them to be valuable. However, each person has a different path for this spiritual exploration (i.e., exploration of Yo's spirit), and while many parts of the journey are likely to be similar, each person must be free to take and leave methods of exploration according to their usefulness.
 
 This is the widely encompassing nature of Yoism. In Yoism, the practice of personal spiritual exploration may include meditation, yoga, music, running, conversation, debate, philosophizing, studying people, nature, and the physical world, sky-diving, dance, chanting, observation, reflection and many other activities. This is an exploration of our own feelings and spirituality, and the exploration itself must be ours.
-However, by recognizing the personal freedom people need in their search, Yoism does not simply abandon people to search alone. This is a journey we share, and often times the more we do share the journey with others, the clearer the way becomes. Thus we have made it part of our Yoan culture to gather and explore this space together (the specific ways in which the Yoan community does this currently will be described later in this chapter).
+However, by recognizing the personal freedom people need in their search, Yoism does not simply abandon people to search alone. This is a journey we share, and often times the more we do share the journey with others, the clearer the way becomes. Thus we have made it part of our Yoan culture to gather and explore this space together (the ways in which the Yoan community does this will be described later in this chapter).
 
 Additionally many parts of this chapter, and this book as well, can be viewed as a series of questions or propositions which Yoans have found useful in the examination of their own meaning. The process of self discovery is long and difficult. However, it is something that people have been doing throughout history and we do not need to start from scratch. Many of the questions that have been helpful for you to ask yourself in that journey will also likely be helpful for others. And many of the questions that have been helpful for our ancestors will likely be helpful to us; likewise for the answers that are found. This book, then, is a compilation of the best historical and traditional spiritual questions and proposed answers that we have found, as well as a compilation which is contemporary and continually evolving.
 
@@ -674,55 +649,61 @@ Prayer from Saint Thomas
 ## Chapter 6: Why Yoism?
 
 ### A Declaration of Inter-Dependence
-When, in the course of human events, it becomes necessary for a people to advance from that subordination in which they have hitherto remained, and to assume among the powers of the earth the equal and independent station to which the laws of nature and of nature's god entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the change.
+When, in the course of human events, it becomes necessary for a people to advance from that subordination in which they have hitherto remained, and to assume among the powers of the earth the equal and independent station to which the laws of nature entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to act.
+
 We hold these truths to be sacred and self-evident: that all people are created equal and independent; that from that equal creation they derive in rights inherent and inalienable, among which are the preservation of life, and liberty and the pursuit of happiness.
 
 We hold these truths to be sacred, yet as we pollute our rivers, raze the wild forests and destroy our future, they are defiled. We hold these truths to be undeniable, yet as our governments serve only the rich they are denied. We hold these truths to be self-evident, yet as our families and communities are torn apart, they are ignored. We hold these truths, and no longer are we willing to let them be passed by.
 
-There is the moment in the progression of the soul and in the struggle for personal improvement, when the individual realizes that they are intimately connected to the entirety of the universe. At this moment the following phrase losses all triteness and becomes a haunting curse, "No one is free while others are oppressed." Those of us who hear the truth of this as a burden are caught in the knowledge that to take one more step forward in the journey of self progression the whole world must step with us.
+There is the moment in the progression of humanity and in the struggle for personal improvement, when the individual realizes that they are intimately connected to the entirety of the universe. At this moment the following phrase loses all triteness and becomes a haunting curse: "No one is free while others are oppressed." Those of us who hear the truth of this as a burden are caught in the knowledge that to take one more step forward in the journey of self progression the whole world must step with us.
 
 The world is full of needless suffering. Other religions teach that suffering is part of life, that we can’t avoid it. Definitely, suffering is part of life. Definitely, tragedy is a part of life. But the realization of Yoism is that so much of this suffering is needless. We can’t change human nature, we can’t deny suffering, we can’t stop death. But we can organize in different ways, we can change our institutions. These are human creations, and surely as we have built them, we can rebuild them. We can change the way we live together, we can change the way we work, we can change the way we live. Ethnic tribal battles all over the world continue to tear more and more lives into pieces. For all of our scientific discoveries and brilliant technological advancements, we haven’t learned anything. We haven’t learned the power of our own shared humanity.
 
 Why must people toil at work that is harmful to the earth, to their psyches, and to the health of all? We have the resources and the know-how to feed the world, can’t we do this without all the suffering and killing, the exploitation, the slavery? What sort of luxury is it to be chained to a desk in a suit and tie, while the yacht sits idle in the polluted waters of the bay next to a dying city? What type of power is it to flush your planet down the drain and piss on your children’s future?
 
-A different world is possible. Yet what stops everyone from making it happen? Who’s job is it to break free of our routines, to take the risks of pursuing the dreams in our hearts? Be realistic we are told—but what exactly does that mean in a world where Global Warming is a scientific certainty ignored by our leaders? Who’s job is it to believe in our own grandiose aspirations, to speak them allowed every day, to rise in the morning with our hearts beating faster as we know it could all be real? It really could.
+A different world is possible. Yet what stops everyone from making it happen? Who’s job is it to break free of our routines, to take the risks of pursuing the dreams in our hearts? Be realistic, we are told—but what exactly does that mean in a world where Global Warming is a scientific certainty ignored by our leaders? Who’s job is it to believe in our own grandiose aspirations, to speak them aloud every day, to rise in the morning with our hearts beating faster as we know it could all be real? It really could.
+The first trick is to stop dreaming alone. What is this nonsense that you have to figure out what to do with your life on your own? Since when do you alone have the power to change the world? Together we have powers undreamt of—if we could share our dreams, we could achieve them together.
 
-The first trick is to stop dreaming alone. What is this nonsense that you have to figure out what to do with your life on your own? Since when do you alone have the power to change the world? But together we have power undreamt of—if we could share our dreams we could achieve them together.
-This is why we Gather. We Gather so that we can heal our senses, so that we can breathe deep the companionship of others, and escape ournumbness—to feel pain, to feel vulnerable, is to feel hope, is to begin to open ourselves to the possibility that we are the ones responsible for making our most sacred and precious dreams come true.
+This is why we Gather. We Gather so that we can heal our senses, so that we can breathe deep in the companionship of others. We gather to transcend our numbness—to feel pain, to feel vulnerable, to feel hope. As a community, we begin to open ourselves to the possibility that we are the ones responsible for making our most sacred and precious dreams come true.
 
 The first step, the very first step, is to re-learn community. To re-learn how we can come together, share rituals, struggle through our conflicts, love and fight with each other in a way that is deep and meaningful. The difficulty as always is the food, the warmth, the war. How will we defend ourselves? These problems can all be overcome. This is the first step, to join together again, to once again be truly larger then our small selves, to in this joining find the feeling of liberation, to feel the freedom of being protected by a loving community.
 
-Though religion has been successful at bringing truly loving communities together, so many have failed. So many religions have been the cause of endless, innumerable wars. Conventional religions have so many of the right pieces, but in their mindless insistence on one ‘right path,’ and an inflexible attitude towards dissenters, religions have failed to be powerful unifying forces for all of humanity. On the other hand, religions which have barely any message beyond tolerance have been unable to gather the momentum needed to truly reform society beyond tiny band-aid solutions.
+Though religion has been successful at bringing truly loving communities together, so many have failed. So many religions have been the cause of endless, innumerable wars. Conventional religions have so many of the right pieces, but in their mindless insistence on one ‘right path,’ and an inflexible attitude towards dissenters, religions have failed to be powerful unifying forces for all of humanity. 
 
-What is needed is some way of combining the power of cohesion that a religion creates with the freedom of thought of the individuals. What is needed is a way to gracefully acknowledge our diversity and our individuality in a framework where we can work together to create a society where we will all be loved..
+What is needed is some way of combining the power of cohesion that a religion creates with the freedom of thought of the individuals. What is needed is a way to gracefully acknowledge our diversity and our individuality in a framework where we can work together to create a society where we will all be loved.
+
 But why Yoism? Why not one of the hundreds or thousands of other religions or unions that has come before? Why will Yoism work when the world is littered with great failures? Well, we don’t know it will work. But we believe it is something that truly has not been tried before. It‘s an experiment of hope.
+
+### The power of Yo
 Hopefully in reading this book, you have come to understand the ways in which Yoism hopes to succeed where other belief systems have failed. Other institutions make all kinds of promises about what it is they will help you engage. Judaism the engagement with the Torah. Christianity with the New Testament. Islam the engagement with the Quran. Yoism offers the promise of engagement with your own experience of the world.
 
-Yoism is the ultimate pragmatic point of view: we will do whatever is needed and whatever works in order to be able to engage with love more and more of the world. There is no Yoan allegiance to scriptures or dogma. Explicitly Yoism embraces a dynamism and a mutability where dogma is abandoned in favor of pragma. We even made up the word pragma to rhyme. In this mutability, the conflicts which naturally result are acknowledged and dealt with head on. In pursuit of pragmatic ends, fairness of process and transparency of results are very strongly held beliefs. Yet, if either could be conclusively shown to have negative consequences, and a different methodology would result in more loving organized engagement, either of them would be abandoned. In this sense, Yoism is the ultimate pragmatic religion.
+Yoism is the ultimate pragmatic point of view: we will do whatever is needed and whatever works in order to love more and more of the world. There is no Yoan allegiance to scriptures or dogma. Explicitly, Yoism embraces a dynamism and a mutability where dogma is abandoned in favor of pragma. We even made up the word pragma to rhyme. In this mutability, the conflicts which naturally result are acknowledged and dealt with head on. 
 
-Yoism has gone through five different names in nearly five years. In another two years it will probably have a different name. All of the changing and twisting is there because we’re continually changing and twisting. Ultimately what we think and believe is only important insofar as it helps us effectively organize, heal, love and find meaning. As such, we’re incredible plagiarists—we steal ideas from everyone. Everyone is a teacher, everyone is a guru.
+In pursuit of pragmatic ends, fairness of process and transparency of results are very strongly held beliefs. Yet, if either could be conclusively shown to have negative consequences, and a different methodology would result in more loving organized engagement, either of them would be abandoned. In this sense, Yoism is the ultimate pragmatic religion.
 
-Thus we must be willing to encounter a diversity of experiences, experiences that challenge us to reexamine our own sense of truth and righteousness. We need diversity of all types, of religion, gender, sexuality, race, class, ethnicity, age, background, intellect, etc. The fundamental faith that propels the open source truth project of Yoism is that each human experience of life has valuable insight to be shared, and that this sharing propels us all closer to truth. This means we have to be ready to engage our fixed assumptions, reexamine them, and give up our "safety blankets" in the face of new evidence and experiences. Yoism proclaims no fixed dogma, just a constant process of refinement.
+Yoism has gone through five different names already. In the future it will probably have a different name. All of the changing and twisting is there because life is continually changing and twisting. Ultimately what we think and believe is only important insofar as it helps us effectively organize, heal, love and find meaning. As such, we’re incredible plagiarists—we steal ideas from everyone. Everyone is a teacher, everyone is a guru.
 
-To this end we offer a call, and many invitations to the "others" and the "not me’s" of the world, a call to engage and join the movement. We recognize that we need to develop a process that maintains room for diversity, that continually challenges orthodoxy and stagnant power hierarchies, and yet allows our community to function efficiently and effectively and meet our collective needs. This challenge is the paradox of Yoism, the tension between my needs and yours, between the need of the individual and the needs of the community. We must empower each of us in the pursuit of our own dreams, and these dreams must overlap enough to give back to the community so that we may continue to empower each other and growing number of Yoans.
+Thus, we must be willing to encounter a diversity of experiences, experiences that challenge us to reexamine our own sense of truth and righteousness. We need diversity of all types, of religion, gender, sexuality, race, class, ethnicity, age, background, intellect, etc. The fundamental faith that propels the open source truth project of Yoism is that each human experience of life has valuable insight to be shared, and that this sharing propels us all closer to truth. This means we have to be ready to engage our fixed assumptions, reexamine them, and give up our "safety blankets" in the face of new evidence and experiences. Yoism proclaims no fixed dogma, just a constant process of refinement.
 
-How we do this is an evolutionary process, part foresight, part "we-will-cross-that-bridge-when-we-come-to-it." Ultimately our process must be able to contain the full expression of human diversity, the ultimate and true liberation of every soul, to free ourselves to be ourselves. The music created in this process is yonity, not unity.
+To this end we offer a call, and many invitations to the "others" of the world, a call to engage and join the movement. We recognize that we need to develop a process that maintains room for diversity, that continually challenges orthodoxy and stagnant power hierarchies, and yet allows our community to function efficiently and effectively and meet our collective needs. This challenge is the paradox of Yoism, the tension between my needs and yours, between the need of the individual and the needs of the community. We must empower each of us in the pursuit of our own dreams, and these dreams must overlap enough to give back to the community so that we may continue to empower each other and grow the number of Yoans.
 
-Thus while we maintain the necessity of diversity, we recognize that only by our organizing can we effectively heal the world. Acts in the dark by silent actors can never respond to the depth of suffering in the world. So much of our suffering is caused by organizations which draw lines in the sand and maintain their castles at all costs. As a basis for action we as a community have to hold similar understandings of very basic concepts, and to agree on some method for coming to agreements about the world. This book has talked about God, love, truth, meaning, soul, and has laid out foundations for common understandings of each of these.
+How we do this is an evolutionary process, part foresight, part "we-will-cross-that-bridge-when-we-come-to-it." Ultimately our process must be able to contain the full expression of human diversity, the ultimate and true liberation of every being, to free ourselves to be ourselves. 
 
-In particular, our definition of truth suggests a path on how to come to collective understandings about the world which will form the basis for our actions. This path seeks truth which is not contained in any scripture, nor in any one divine person, but rather truth is contained in the world itself.
+While we maintain the necessity of diversity, we recognize that only by our organizing can we effectively heal the world. Acts in the dark by silent actors can never respond to the depth of suffering in the world. So much of our suffering is caused by organizations which draw lines in the sand and maintain their castles at all costs. As a basis for action we as a community have to hold similar understandings of very basic concepts, and to agree on some method for coming to agreements about the world. This book has talked about God, truth, meaning, and has laid out foundations for common understandings of each of these.
 
-To engage with Yoism, you don’t have to believe a guru. In fact, you can’t just believe a guru. There’s no one mystical wise man with all of the answers. Instead, all of us are mystical wise men with all of the answers. This rejection of fantasies about some super-being who can levitate or walk on water or part the ocean, or be free from all suffering is tremendously scary. There is no supernatural truth. There is only the supremely amazing natural truth. And that’s terrifying. Yet at the same time, it’s liberating. You are God.
+In particular, our definition of truth suggests a path on how to come to collective understandings about the world—which will form the basis for our actions. This path seeks truth which is not contained in any scripture, nor in any one divine person, but rather truth is contained in the world itself.
+
+### Become Part of The Movement
+To engage with Yoism, you don’t have to believe a guru. In fact, you can’t just believe a guru. There’s no mystical wise man with all of the answers. Instead, all of us are mystical wise men with all of the answers. This rejection of fantasies about some super-being who can levitate or walk on water or part the ocean, or be free from all suffering is tremendously scary. There is no supernatural truth. There is only the supremely amazing natural truth. And that’s terrifying. Yet at the same time, it’s liberating. We are God.
 
 We must start the journey now, we must begin the work today, we must not let the horrors of the world take us by surprise, we must meet them with organized concern, we must learn ahead of time how to heal each other, to treat our wounds, to support our hope and encourage our spirits. We shall learn to sing songs that increase our resolve, help us remember that persistence is the hallmark of survival. We will not collapse into the old ways of violence, we will not forget the future that is ours once we make it to the other side.
 
-We are the natural way, the true way, the community of compassion that quests after truth, that allows all individuals to express their inner piece of light, the human soul, to flourish in harmony with others. To create a multi-colored jamboree of celebratory improvisation —in other words, to live Life.
-
-To welcome our children to the beauty of the land, to teach them to protect it, to love it, to save it, to share it. To show our children a new world, a real world of dreams manifest. It is the only mission. One day Yo will be real upon the world, Yo will awaken and know yoself, will see Yo dancing and singing, will smile upon Yo, will finally achieve a powerful bliss that hugs the world like a smile.
+We are a community of compassionates that quest after truth, a community that allows all individuals to express their inner piece of light, the human soul, to flourish in harmony with others. We are courageous and committed to live Life to the fullest. We welcome our children to the beauty of the land, we teach them to protect it, to love it, to save it, to share it. We show our children a new world, a real world of dreams manifest. 
+One day Yo will be real upon the world, Yo will awaken and know Yoself, will see Yo dancing and singing, will smile upon Yo, will finally achieve a powerful bliss that hugs the world like a smile.
 
 By reading this book you have started your engagement with Yoism. Join us even further. Think over the ideas we have presented. Start thinking about them and talking about them with the loved ones in your life. Start trying to find out what your core beliefs are, start questioning the institutions you’re a part of. Don’t believe anything in here just because it’s in here. Engage it, question it. Engage us, question us. As you start engaging with us, as you start talking with us, then you become part of Yoism.
 
-Set aside the fear of believing in your own potential, and add your song to the growing song of Yoism. Become the vision of yourself that you have locked away, risk the possibility that you truly are great. We’ll harness our collective energies, and do something humanity has never seen before.
+Start believing in your own potential. Add your song to the growing song of Yoism. Become the vision of yourself that you have locked away, risk the possibility that you truly are great. We’ll harness our collective energies, and do something humanity has never seen before.
 
 #### Footnotes
 [^1]: Of course there are some complications to this view, for instance, the ultimate evolutionary objective is not survival but reproduction, sometimes the survival of an organism is not important after it reproduces, and so it simply dies. Some fish for instance die in the thousands on their spawning ground. Similarly, a mother may choose to sacrifice her life to protect her children. But the point remains, that humans are *deeply* concerned with not dying.
