@@ -51,7 +51,7 @@ Version 0.21
   - Community Agreements About What Is Important
   - The Process For Coming To These Articulations
 
-- [Chapter 5: Reclaiming GOD](#chapter-5-reclaiming-god)
+- [Chapter 5: Reclaiming God](#chapter-5-reclaiming-god)
 
   - A Story of Creation
   - Traditional Religion
@@ -78,7 +78,7 @@ Through this process, our central text will never become dogmatic or static, but
 
 ## Introduction
 
-It is time to stop looking for the teacher, the guru, and to openly and honestly recognize that we are all teachers, we are all god, we all contain valuable life experience and profound lessons on the nature of Truth or Reality. Together we must assume collective leadership of our community. We must empower and nurture and support the struggle in each and every one of us to escape bondage.
+It is time to stop looking for the teacher, the guru, and to openly and honestly recognize that we are all teachers, we are all God, we all contain valuable life experience and profound lessons on the nature of Truth or Reality. Together we must assume collective leadership of our community. We must empower and nurture and support the struggle in each and every one of us to escape bondage.
 
 This is the fundamental faith of Yoism: truth resides in our experience of reality. Personal verification is the foundation of all belief.
 We start by listening to ourselves, trusting our experiences. Our feelings guide the way. Our true purpose is defined by our very existence. Our meaning comes from within.
@@ -543,7 +543,7 @@ Does that mean that the community cannot come to a decision on certain issues? N
 
 Because Yoism is a non-dogmatic religion, there will be conflict and uncertainty in everything our community says and does. Our entire process is built around uncovering and resolving conflicts—a process that makes cooperation possible in the context of conflicts that will never disappear. The aim of our modified consensus process is to air all the issues so they can be discussed and understood by our community and so that we can make sound decisions. Incorporating and accounting for disagreements is built into our decision making process itself.
 
-## Chapter 5: Reclaiming GOD
+## Chapter 5: Reclaiming God
 
 ### A Story of Creation
 > "God is the word that speaks itself."
