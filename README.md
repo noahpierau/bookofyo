@@ -112,7 +112,7 @@ All of us, however, are stuck by the sheer weight of living in a system that is 
 
 We want to love, we want to be freed to pursue our dreams. This is most obvious in the ways we try to protect the innocence of children, the way we want them to believe they can become anything they dream of, but at the same time we have forgotten to protect this in ourselves.
 
-> *The idea is not to keep dreaming, but to wake up! We must awaken inside our dreams and realize NOW is the moment to act.*
+> *The idea is not to keep dreaming, but to wake up! We must awaken inside our dreams and realize ***NOW*** is the moment to act.*
 
 We are the one’s responsible for our futures, and it is only when we have the strength to risk our own greatness that hope is born into the world.
 All of us need help in our own liberation.
@@ -201,14 +201,14 @@ We believe the following central tenets are essential in helping us to avoid thi
 ## Chapter 2: Empiricism
 
 There is a story about a man who gave up everything to search for the “meaning of life.”
-Finally, he found a guru with a twinkle in his eye, whose every movement demonstrated his enlightened state. The man served this guru for many, many years, until the day when his guru was on his deathbed. On this day, the man panicked as he realized he had never fully discovered the meaning of life and his guru was about to die. He begged his guru to tell him clearly before he could no longer. His guru struggled to speak and with one of his last breaths, he said, *“Life, my son, is a beanstalk.”*
-The man responded with incredulous outrage. With intensified panic he yelled at his guru, *“What! After all these years, you tell me ‘life is a beanstalk.’ A beanstalk! Who ever heard of anything so stupid?”*
-His guru bolted upright and with his dying breath he screeched in horror, *“You mean it isn't a beanstalk?!”*
+Finally, he found a guru with a twinkle in his eye, whose every movement demonstrated his enlightened state. The man served this guru for many, many years, until the day when his guru was on his deathbed. On this day, the man panicked as he realized he had never fully discovered the meaning of life and his guru was about to die. He begged his guru to tell him clearly before he could no longer. His guru struggled to speak and with one of his last breaths, he said, “Life, my son, is a beanstalk.”
+The man responded with incredulous outrage. With intensified panic he yelled at his guru, “What! After all these years, you tell me ‘life is a beanstalk.’ A beanstalk! Who ever heard of anything so stupid?”
+His guru bolted upright and with his dying breath he screeched in horror, “You mean it isn't a beanstalk?!”
 
 ### Truth
 At the root of the Yoan experiment is an agreement about how we are going to explore Reality. Almost every religion on Earth claims to have special access to "The One Truth," determined by the pronouncements of some authority and the interpretation of authority by other authorities. Yoism is different. Yoism is the "non-dogmatic religion." But where does a Yoan's basis for belief come from, and how does the Yoan community as a whole determine its truths?
 
-Finding one's path in this world is a constant investigation of both what we desire and of what is. The process of understanding "what is," of exploring the physical limits of reality, is a process of exploring God. To Yoans, God is Reality. God is the universe. As Gandhi said, *“God is Truth.”* God is the essence from which all existence springs forth.
+Finding one's path in this world is a constant investigation of both what we desire and of what is. The process of understanding "what is," of exploring the physical limits of reality, is a process of exploring God. To Yoans, God is Reality. God is the universe. As Gandhi said, “God is Truth.” God is the essence from which all existence springs forth.
 In the last few centuries, since the birth of the Enlightenment, humans have discovered truly revolutionary ways of exploring Reality/God, ways that rely on personal verification—instead of dogma—as the foundation for all belief. We now have the opportunity, perhaps for the first time in history, to apply these understandings not only to our own search for Truth, but to a collective search for Truth by a community dedicated to acting upon its discoveries.
 
 This chapter will demonstrate the framework of the Yoan exploration of Reality. How do we make sense of our experiences? What does “truth” mean? What does “belief” mean? How do we determine what we consider to be correct and incorrect given what we know?
@@ -373,7 +373,7 @@ The process currently consists of the following steps:
 
 - **Read the Book** - Get acquainted with the ideas, discuss them with others in the community, do your best to understand the meaning behind the words.
 - **Write a Proposal** - If after carefully considering what is written here, you believe you have insight into how to improve the Book so that it expresses something more consistent with your personal experience of the world, then the next step is to draft a proposal. Delineate, in writing, your recommended changes, along with your reasoning.
-- **Propose the Proposal** - Submit the proposal to all Book Yoans for consideration. Currently this is done by posting comments to an email list at consensus@yoism.org. Book Yoans are members of the Yoan community who have expressed a serious committment to working on and improving the Book of Yo so that it more acurately and completely approaches truth.
+- **Propose the Proposal** - Submit the proposal to all Book Yoans for consideration. Book Yoans are members of the Yoan community who have expressed a serious committment to working on and improving the Book of Yo so that it more acurately and completely approaches truth.
 - **Voicing Objections** - Problems with the proposed changes are articulated. The criteria for judging the quality of a proposal is based on the question “Does this make sense to me?”
 - **Working for Consensus** - If disagreement about the proposal persists, those who continue to object have the responsibility of working with you to create a revision that satisifies all those concerned.
 
@@ -401,6 +401,7 @@ This is not meant to be an exclusive group. All who have demonstrated their part
 
 ### Proclaiming the Truth Together: Overcoming the Fear of Religion
 > *"We have The Truth. The belief systems which dominate our world are delusional. Yoan beliefs are better."*
+
 How can a Yoan say such things?
 
 There seems to be a terrible irony in such statements coming out of a Yoan's mouth. Of all the types of people on this planet, certainly a Yoan—an individual dedicated to sincere open-mindedness and the beauty of diversity of experience—can understand what is wrong with saying "We have the Truth" and "they are deluded." Such attitudes towards one's own beliefs have left our planet littered with millions (billions?) of dead killed in the name of this or that Truth, a fervent and fanatic belief which is, in fact, false.
