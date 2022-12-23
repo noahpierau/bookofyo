@@ -6,6 +6,8 @@ Version 0.2
 
 [Markdown added in December, 2022]
 
+![image](https://user-images.githubusercontent.com/16287891/209257926-73b44093-f597-4adb-92d2-9b31ab0846e6.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
