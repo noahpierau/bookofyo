@@ -1,10 +1,10 @@
 # The Book of Yo
 
-Version 0.2
+Version 0.21
 
 [Consensed on January 4, 2004]
 
-[Markdown added in December, 2022]
+[Markdown added and minor edits made in December, 2022]
 
 ![image](https://user-images.githubusercontent.com/16287891/209257926-73b44093-f597-4adb-92d2-9b31ab0846e6.png)
 
@@ -116,9 +116,9 @@ We want to love, we want to be freed to pursue our dreams. This is most obvious 
 
 We are the one’s responsible for our futures, and it is only when we have the strength to risk our own greatness that hope is born into the world.
 All of us need help in our own liberation.
-Some of us have always dreamed of being artists or entrepeneurs, but feel trapped by the burden of college debt in jobs that rob our creativity. Some of us have dreamed of starting our own businesses, businesses with a social purpose, and we need to be given the resources and support to take the risks to make these businesses come alive. Some of us have skills that most can only dream of. We are great musicians, but we are crushed by our own self-doubt, by our lack of support, and we learn to stop trying, to stop dreaming of our own greatness.
+Some of us have always dreamed of being artists or entrepeneurs, but feel trapped by the burden of college debt in jobs that rob our creativity. Some of us have dreamed of starting our own businesses, businesses with a social purpose, and we need to be given the resources and support to take the risks to make these businesses come alive. Some of us have skills that most can only dream of—we are great musicians, but we are crushed by our own self-doubt, by our lack of support, and we learn to stop trying. Most of us have stopped dreaming of our own greatness.
 
-Imagine a liberated world, a world in which children are shown how to discover themselves, not according to some stereotype or according to the profit needs of a capitalistic machine, but how to engage the life's quest, how to brave the struggles and suffer the pains of true adventure. Imagine a world that encourages real solutions to hard problems.
+Imagine a liberated world, a world in which children are shown how to floursih, not according to some stereotype or according to the profit needs of a capitalistic machine, but how to live their life to the fullest potential, how to brave the struggles and suffer the pains of true adventure. Imagine a world that encourages real solutions to hard problems.
 
 We are responsible for each other. Together, we can improve our lives and our world. If we can learn to love and care for each other, if we can learn to rest and rely on each other, if we can unlearn the myth of independence and replace it with the reality of interdependence, which is the way of the universe, we can heal the world.
 
@@ -130,7 +130,7 @@ We believe that our institutions—including our governments, our religious orga
 In this we know that we are not alone. Many people wrestle with the sense that something is terribly wrong. There are many groups around the globe engaged in the struggle to find solutions. As Yoans, we recognize that these scattered efforts must be brought together and organized if they are to be effective.
 
 Together—as we join one another to form a more unified, larger community that acts on shared, healthy beliefs and values—we can create a better world. We are united in our goals: healthy communities, ecological living, and worldwide justice. In short, a sustainable humanity.
-Yoans recognize that to form a truly healthy community that is effective as a group, we must remain responsive to the experiences ofindividuals. This is an extremely difficult and challenging task, as organizing people into an effective group without asking them to replace their own beliefs and values with those of the group itself is a tricky business.
+Yoans recognize that to form a truly healthy community that is effective as a group, we must remain responsive to the experiences of individuals. This is an extremely difficult and challenging task, as organizing people into an effective group without asking them to replace their own beliefs and values with those of the group itself is a tricky business.
 
 Yoism, the world's first Open Source Religion, takes up this challenge.
 
